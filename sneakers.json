@@ -1,5 +1,4 @@
-{
-  "products": [
+[
     {
       "id": 1,
       "brand": "Nike",
@@ -361,4 +360,3 @@
       "availability": "In Stock"
     }
   ]
-}
