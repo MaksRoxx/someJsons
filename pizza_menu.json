@@ -1,0 +1,244 @@
+{
+    "menu": [
+      {
+        "id": 1,
+        "name": "Margherita",
+        "description": "Classic tomato and mozzarella pizza with fresh basil leaves.",
+        "price": 12.99,
+        "size": "Medium",
+        "toppings": ["Tomato", "Mozzarella", "Basil"]
+      },
+      {
+        "id": 2,
+        "name": "Pepperoni",
+        "description": "Delicious pepperoni pizza with a generous amount of pepperoni slices.",
+        "price": 14.99,
+        "size": "Large",
+        "toppings": ["Pepperoni", "Mozzarella", "Tomato Sauce"]
+      },
+      {
+        "id": 3,
+        "name": "Vegetarian",
+        "description": "A colorful mix of fresh vegetables and mozzarella cheese.",
+        "price": 13.99,
+        "size": "Medium",
+        "toppings": ["Mushrooms", "Bell Peppers", "Olives", "Mozzarella"]
+      },
+      {
+        "id": 4,
+        "name": "Hawaiian",
+        "description": "A tropical delight with ham and pineapple slices.",
+        "price": 15.99,
+        "size": "Large",
+        "toppings": ["Ham", "Pineapple", "Mozzarella", "Tomato Sauce"]
+      },
+      {
+        "id": 5,
+        "name": "Meat Lovers",
+        "description": "A hearty pizza loaded with a variety of savory meats.",
+        "price": 16.99,
+        "size": "Large",
+        "toppings": ["Pepperoni", "Sausage", "Bacon", "Mozzarella", "Tomato Sauce"]
+      },
+      {
+        "id": 6,
+        "name": "BBQ Chicken",
+        "description": "Tender chicken and tangy BBQ sauce with a mozzarella topping.",
+        "price": 16.99,
+        "size": "Large",
+        "toppings": ["Chicken", "BBQ Sauce", "Mozzarella", "Red Onions"]
+      },
+      {
+        "id": 7,
+        "name": "Mushroom Lovers",
+        "description": "For those who can't get enough of mushrooms, this pizza's for you!",
+        "price": 13.99,
+        "size": "Medium",
+        "toppings": ["Mushrooms", "Mozzarella", "Garlic"]
+      },
+      {
+        "id": 8,
+        "name": "Supreme",
+        "description": "The ultimate pizza with a mix of meats, vegetables, and more.",
+        "price": 17.99,
+        "size": "Large",
+        "toppings": ["Pepperoni", "Sausage", "Bell Peppers", "Olives", "Onions", "Mozzarella", "Tomato Sauce"]
+      },
+      {
+        "id": 9,
+        "name": "Veggie Delight",
+        "description": "A veggie lover's dream with a medley of colorful vegetables.",
+        "price": 13.99,
+        "size": "Medium",
+        "toppings": ["Bell Peppers", "Olives", "Onions", "Tomatoes", "Mozzarella"]
+      },
+      {
+        "id": 10,
+        "name": "Seafood Special",
+        "description": "A seafood extravaganza with shrimp, crab, and more.",
+        "price": 18.99,
+        "size": "Large",
+        "toppings": ["Shrimp", "Crab", "Mozzarella", "Alfredo Sauce"]
+      },
+      {
+        "id": 11,
+        "name": "Four Cheese",
+        "description": "A cheesy delight with a blend of four different cheeses.",
+        "price": 14.99,
+        "size": "Medium",
+        "toppings": ["Mozzarella", "Parmesan", "Cheddar", "Gouda"]
+      },
+      {
+        "id": 12,
+        "name": "Chicken Alfredo",
+        "description": "Creamy Alfredo sauce, chicken, and mozzarella cheese.",
+        "price": 15.99,
+        "size": "Large",
+        "toppings": ["Chicken", "Mozzarella", "Alfredo Sauce", "Garlic"]
+      },
+      {
+        "id": 13,
+        "name": "Vegan Supreme",
+        "description": "A vegan twist on the classic Supreme pizza with plant-based toppings.",
+        "price": 16.99,
+        "size": "Large",
+        "toppings": ["Vegan Sausage", "Bell Peppers", "Olives", "Onions", "Vegan Cheese", "Tomato Sauce"]
+      },
+      {
+        "id": 14,
+        "name": "Pesto Delight",
+        "description": "Basil pesto sauce, tomatoes, and fresh mozzarella for a burst of flavor.",
+        "price": 13.99,
+        "size": "Medium",
+        "toppings": ["Pesto Sauce", "Tomatoes", "Mozzarella", "Basil"]
+      },
+      {
+        "id": 15,
+        "name": "Bacon Ranch",
+        "description": "Ranch dressing, crispy bacon, and mozzarella cheese.",
+        "price": 15.99,
+        "size": "Large",
+        "toppings": ["Bacon", "Ranch Dressing", "Mozzarella", "Red Onions"]
+      },
+      {
+        "id": 16,
+        "name": "Mediterranean",
+        "description": "A taste of the Mediterranean with olives, feta cheese, and more.",
+        "price": 16.99,
+        "size": "Large",
+        "toppings": ["Olives", "Feta Cheese", "Tomatoes", "Mozzarella", "Tzatziki Sauce"]
+      },
+      {
+        "id": 17,
+        "name": "Buffalo Chicken",
+        "description": "Spicy buffalo sauce, chicken, and mozzarella cheese with a kick.",
+        "price": 14.99,
+        "size": "Medium",
+        "toppings": ["Chicken", "Buffalo Sauce", "Mozzarella", "Blue Cheese"]
+      },
+      {
+        "id": 18,
+        "name": "Sausage and Mushroom",
+        "description": "Savory sausage and mushrooms on a cheesy base.",
+        "price": 15.99,
+        "size": "Large",
+        "toppings": ["Sausage", "Mushrooms", "Mozzarella", "Tomato Sauce"]
+      },
+      {
+        "id": 19,
+        "name": "Spinach and Artichoke",
+        "description": "Creamy spinach and artichoke sauce with mozzarella and Parmesan.",
+        "price": 15.99,
+        "size": "Large",
+        "toppings": ["Spinach", "Artichoke", "Mozzarella", "Parmesan"]
+      },
+      {
+        "id": 20,
+        "name": "Taco Pizza",
+        "description": "All the flavors of a taco on a pizza with ground beef, cheese, and veggies.",
+        "price": 16.99,
+        "size": "Large",
+        "toppings": ["Ground Beef", "Cheddar Cheese", "Lettuce", "Tomato", "Salsa"]
+      },
+      {
+        "id": 21,
+        "name": "Garlic Lover's",
+        "description": "A garlic lover's dream with roasted garlic and mozzarella cheese.",
+        "price": 13.99,
+        "size": "Medium",
+        "toppings": ["Roasted Garlic", "Mozzarella", "Parmesan"]
+      },
+      {
+        "id": 22,
+        "name": "Barbecue Beef",
+        "description": "Tender beef, barbecue sauce, and mozzarella cheese with a smoky flavor.",
+        "price": 16.99,
+        "size": "Large",
+        "toppings": ["Beef", "Barbecue Sauce", "Mozzarella", "Onions"]
+      },
+      {
+        "id": 23,
+        "name": "Pineapple Express",
+        "description": "A sweet and tangy delight with pineapple and ham on a pizza.",
+        "price": 15.99,
+        "size": "Large",
+        "toppings": ["Pineapple", "Ham", "Mozzarella", "Tomato Sauce"]
+      },
+      {
+        "id": 24,
+        "name": "White Pizza",
+        "description": "A creamy and cheesy white pizza with a blend of cheeses and garlic.",
+        "price": 14.99,
+        "size": "Medium",
+        "toppings": ["Mozzarella", "Ricotta", "Parmesan", "Garlic"]
+      },
+      {
+        "id": 25,
+        "name": "Artichoke and Sun-Dried Tomato",
+        "description": "Artichoke hearts and sun-dried tomatoes on a tasty pizza base.",
+        "price": 16.99,
+        "size": "Large",
+        "toppings": ["Artichoke Hearts", "Sun-Dried Tomatoes", "Mozzarella", "Basil"]
+      },
+      {
+        "id": 26,
+        "name": "Pesto Chicken",
+        "description": "Chicken, basil pesto sauce, and mozzarella for a fresh and flavorful pizza.",
+        "price": 15.99,
+        "size": "Large",
+        "toppings": ["Chicken", "Pesto Sauce", "Mozzarella", "Tomatoes"]
+      },
+      {
+        "id": 27,
+        "name": "Cheeseburger Pizza",
+        "description": "All the flavors of a cheeseburger on a pizza with beef, cheese, and pickles.",
+        "price": 16.99,
+        "size": "Large",
+        "toppings": ["Ground Beef", "Cheddar Cheese", "Pickles", "Tomatoes", "Ketchup", "Mustard"]
+      },
+      {
+        "id": 28,
+        "name": "Veggie Ranch",
+        "description": "Ranch dressing, fresh vegetables, and mozzarella cheese for a cool and crisp pizza.",
+        "price": 14.99,
+        "size": "Medium",
+        "toppings": ["Ranch Dressing", "Bell Peppers", "Cucumbers", "Carrots", "Mozzarella"]
+      },
+      {
+        "id": 29,
+        "name": "Sausage and Egg",
+        "description": "A breakfast-inspired pizza with sausage, eggs, and mozzarella cheese.",
+        "price": 15.99,
+        "size": "Large",
+        "toppings": ["Sausage", "Scrambled Eggs", "Mozzarella", "Onions"]
+      },
+      {
+        "id": 30,
+        "name": "Mac and Cheese Pizza",
+        "description": "A comforting pizza with mac and cheese, cheddar, and mozzarella cheese.",
+        "price": 16.99,
+        "size": "Large",
+        "toppings": ["Mac and Cheese", "Cheddar Cheese", "Mozzarella", "Breadcrumbs"]
+      }
+    ]
+  }  

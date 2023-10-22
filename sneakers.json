@@ -1,0 +1,364 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "brand": "Nike",
+      "model": "Air Max 90",
+      "price": 129.99,
+      "size": "10 US",
+      "color": "Black/White",
+      "availability": "In Stock"
+    },
+    {
+      "id": 2,
+      "brand": "Adidas",
+      "model": "Ultra Boost",
+      "price": 139.99,
+      "size": "9.5 US",
+      "color": "Grey/White",
+      "availability": "In Stock"
+    },
+    {
+      "id": 3,
+      "brand": "Puma",
+      "model": "RS-X",
+      "price": 99.99,
+      "size": "11 US",
+      "color": "Red/Black",
+      "availability": "Out of Stock"
+    },
+    {
+      "id": 4,
+      "brand": "New Balance",
+      "model": "990v5",
+      "price": 129.99,
+      "size": "10.5 US",
+      "color": "Navy/Grey",
+      "availability": "In Stock"
+    },
+    {
+      "id": 5,
+      "brand": "Reebok",
+      "model": "Classic Leather",
+      "price": 79.99,
+      "size": "9 US",
+      "color": "White",
+      "availability": "In Stock"
+    },
+    {
+      "id": 6,
+      "brand": "Saucony",
+      "model": "Kinvara 12",
+      "price": 109.99,
+      "size": "8.5 US",
+      "color": "Green/Black",
+      "availability": "In Stock"
+    },
+    {
+      "id": 7,
+      "brand": "Under Armour",
+      "model": "UA HOVR Phantom",
+      "price": 119.99,
+      "size": "11.5 US",
+      "color": "Blue/White",
+      "availability": "Out of Stock"
+    },
+    {
+      "id": 8,
+      "brand": "Asics",
+      "model": "GEL-Kayano 28",
+      "price": 139.99,
+      "size": "9.5 US",
+      "color": "Silver/Black",
+      "availability": "In Stock"
+    },
+    {
+      "id": 9,
+      "brand": "Brooks",
+      "model": "Ghost 14",
+      "price": 129.99,
+      "size": "10 US",
+      "color": "Grey/Blue",
+      "availability": "In Stock"
+    },
+    {
+      "id": 10,
+      "brand": "Mizuno",
+      "model": "Wave Rider 25",
+      "price": 119.99,
+      "size": "8.5 US",
+      "color": "Red/Black",
+      "availability": "Out of Stock"
+    },
+    {
+      "id": 11,
+      "brand": "Skechers",
+      "model": "GOwalk Max",
+      "price": 59.99,
+      "size": "9 US",
+      "color": "Black",
+      "availability": "In Stock"
+    },
+    {
+      "id": 12,
+      "brand": "Fila",
+      "model": "Disruptor II",
+      "price": 89.99,
+      "size": "10 US",
+      "color": "White",
+      "availability": "In Stock"
+    },
+    {
+      "id": 13,
+      "brand": "Vans",
+      "model": "Old Skool",
+      "price": 69.99,
+      "size": "9.5 US",
+      "color": "Black/White",
+      "availability": "In Stock"
+    },
+    {
+      "id": 14,
+      "brand": "Converse",
+      "model": "Chuck Taylor All Star",
+      "price": 49.99,
+      "size": "8 US",
+      "color": "Red",
+      "availability": "Out of Stock"
+    },
+    {
+      "id": 15,
+      "brand": "Timberland",
+      "model": "Field Boot",
+      "price": 129.99,
+      "size": "11 US",
+      "color": "Brown",
+      "availability": "In Stock"
+    },
+    {
+      "id": 16,
+      "brand": "Columbia",
+      "model": "Terrebonne II",
+      "price": 89.99,
+      "size": "10.5 US",
+      "color": "Grey/Blue",
+      "availability": "In Stock"
+    },
+    {
+      "id": 17,
+      "brand": "Salomon",
+      "model": "Speedcross 5",
+      "price": 139.99,
+      "size": "9 US",
+      "color": "Black/Red",
+      "availability": "In Stock"
+    },
+    {
+      "id": 18,
+      "brand": "Merrell",
+      "model": "Moab 2",
+      "price": 99.99,
+      "size": "10 US",
+      "color": "Brown",
+      "availability": "Out of Stock"
+    },
+    {
+      "id": 19,
+      "brand": "The North Face",
+      "model": "Ultra 110 GTX",
+      "price": 119.99,
+      "size": "11 US",
+      "color": "Grey/Black",
+      "availability": "In Stock"
+    },
+    {
+      "id": 20,
+      "brand": "Columbia",
+      "model": "Firecamp Boot",
+      "price": 79.99,
+      "size": "9.5 US",
+      "color": "Black",
+      "availability": "In Stock"
+    },
+    {
+      "id": 21,
+      "brand": "Nike",
+      "model": "Air Force 1",
+      "price": 89.99,
+      "size": "10 US",
+      "color": "White",
+      "availability": "In Stock"
+    },
+    {
+      "id": 22,
+      "brand": "Adidas",
+      "model": "Stan Smith",
+      "price": 69.99,
+      "size": "9.5 US",
+      "color": "Green",
+      "availability": "Out of Stock"
+    },
+    {
+      "id": 23,
+      "brand": "Puma",
+      "model": "Cali",
+      "price": 79.99,
+      "size": "11 US",
+      "color": "Pink/White",
+      "availability": "In Stock"
+    },
+    {
+      "id": 24,
+      "brand": "New Balance",
+      "model": "997H",
+      "price": 89.99,
+      "size": "10.5 US",
+      "color": "Blue/White",
+      "availability": "In Stock"
+    },
+    {
+      "id": 25,
+      "brand": "Reebok",
+      "model": "Club C 85",
+      "price": 69.99,
+      "size": "9 US",
+      "color": "White/Red",
+      "availability": "Out of Stock"
+    },
+    {
+      "id": 26,
+      "brand": "Saucony",
+      "model": "Jazz Original",
+      "price": 59.99,
+      "size": "8.5 US",
+      "color": "Grey/Black",
+      "availability": "In Stock"
+    },
+    {
+      "id": 27,
+      "brand": "Under Armour",
+      "model": "Curry 8",
+      "price": 129.99,
+      "size": "11 US",
+      "color": "Black/White",
+      "availability": "In Stock"
+    },
+    {
+      "id": 28,
+      "brand": "Asics",
+      "model": "GEL-Excite 8",
+      "price": 79.99,
+      "size": "9.5 US",
+      "color": "Blue/Black",
+      "availability": "Out of Stock"
+    },
+    {
+      "id": 29,
+      "brand": "Brooks",
+      "model": "Levitate 5",
+      "price": 119.99,
+      "size": "10 US",
+      "color": "Grey/White",
+      "availability": "In Stock"
+    },
+    {
+      "id": 30,
+      "brand": "Mizuno",
+      "model": "Wave Inspire 17",
+      "price": 129.99,
+      "size": "8.5 US",
+      "color": "Red/Black",
+      "availability": "In Stock"
+    },
+    {
+      "id": 31,
+      "brand": "Skechers",
+      "model": "GO RUN 7",
+      "price": 69.99,
+      "size": "9 US",
+      "color": "Black/White",
+      "availability": "Out of Stock"
+    },
+    {
+      "id": 32,
+      "brand": "Fila",
+      "model": "Ravine",
+      "price": 109.99,
+      "size": "10 US",
+      "color": "Brown",
+      "availability": "In Stock"
+    },
+    {
+      "id": 33,
+      "brand": "Vans",
+      "model": "SK8-Hi",
+      "price": 79.99,
+      "size": "9.5 US",
+      "color": "Black/White",
+      "availability": "In Stock"
+    },
+    {
+      "id": 34,
+      "brand": "Converse",
+      "model": "One Star",
+      "price": 89.99,
+      "size": "8 US",
+      "color": "Red",
+      "availability": "Out of Stock"
+    },
+    {
+      "id": 35,
+      "brand": "Timberland",
+      "model": "Courma Guy",
+      "price": 119.99,
+      "size": "11 US",
+      "color": "Brown",
+      "availability": "In Stock"
+    },
+    {
+      "id": 36,
+      "brand": "Columbia",
+      "model": "Vitesse Outdry",
+      "price": 99.99,
+      "size": "10.5 US",
+      "color": "Grey/Blue",
+      "availability": "In Stock"
+    },
+    {
+      "id": 37,
+      "brand": "Salomon",
+      "model": "XA Pro 3D",
+      "price": 139.99,
+      "size": "9 US",
+      "color": "Black/Red",
+      "availability": "In Stock"
+    },
+    {
+      "id": 38,
+      "brand": "Merrell",
+      "model": "Alverstone",
+      "price": 89.99,
+      "size": "10 US",
+      "color": "Grey",
+      "availability": "Out of Stock"
+    },
+    {
+      "id": 39,
+      "brand": "The North Face",
+      "model": "Hedgehog Fastpack",
+      "price": 129.99,
+      "size": "11 US",
+      "color": "Brown/Black",
+      "availability": "In Stock"
+    },
+    {
+      "id": 40,
+      "brand": "Columbia",
+      "model": "Dakota Drifter",
+      "price": 79.99,
+      "size": "9.5 US",
+      "color": "Black/Grey",
+      "availability": "In Stock"
+    }
+  ]
+}
